@@ -1,0 +1,362 @@
+﻿/*icons*/
+.icon {
+    background: url('../i/css_sprites.png');
+    display: block;
+
+
+    &.icon-1-工商服务 {
+        width: calc(35px * 0.55);
+        height: calc(35px * 0.55);
+        background-position: calc(-233px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-1-工商服务-active {
+        width: calc(36px * 0.55);
+        height: calc(35px * 0.55);
+        background-position: calc(-288px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-2-财税记账 {
+        width: calc(35px * 0.55);
+        height: calc(39px * 0.55);
+        background-position: calc(-123px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-2-财税记账-active {
+        width: calc(35px * 0.55);
+        height: calc(39px * 0.55);
+        background-position: calc(-178px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-3-许可证办理 {
+        width: calc(35px * 0.55);
+        height: calc(35px * 0.55);
+        background-position: calc(-343px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-3-许可证办理-active {
+        width: calc(35px * 0.55);
+        height: calc(35px * 0.55);
+        background-position: calc(-398px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-4-知识产权 {
+        width: calc(35px * 0.55);
+        height: calc(34px * 0.55);
+        background-position: calc(-506px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-4-知识产权-active {
+        width: calc(35px * 0.55);
+        height: calc(34px * 0.55);
+        background-position: calc(-559px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-5-人事社保 {
+        width: calc(30px * 0.55);
+        height: calc(35px * 0.55);
+        background-position: calc(-110px * 0.55) calc(-654px * 0.55);
+    }
+
+    &.icon-5-人事社保-active {
+        width: calc(30px * 0.55);
+        height: calc(35px * 0.55);
+        background-position: calc(-160px * 0.55) calc(-654px * 0.55);
+    }
+
+    &.icon-6-商标专利 {
+        width: calc(30px * 0.55);
+        height: calc(37px * 0.55);
+        background-position: calc(-10px * 0.55) calc(-654px * 0.55);
+    }
+
+    &.icon-6-商标专利-active {
+        width: calc(30px * 0.55);
+        height: calc(37px * 0.55);
+        background-position: calc(-60px * 0.55) calc(-654px * 0.55);
+    }
+
+    &.icon-7-税务筹划 {
+        width: calc(33px * 0.55);
+        height: calc(34px * 0.55);
+        background-position: calc(-613px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-7-税务筹划-active {
+        width: calc(33px * 0.55);
+        height: calc(34px * 0.55);
+        background-position: calc(-666px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-all {
+        width: calc(39px * 0.55);
+        height: calc(38px * 0.55);
+        background-position: calc(-638px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-caiwu {
+        width: calc(52px * 0.55);
+        height: calc(51px * 0.55);
+        background-position: calc(-463px * 0.55) calc(-390px * 0.55);
+    }
+
+    &.icon-chaxun {
+        width: calc(44px * 0.55);
+        height: calc(51px * 0.55);
+        background-position: calc(-322px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-chuangyegongju {
+        width: calc(48px * 0.55);
+        height: calc(45px * 0.55);
+        background-position: calc(-186px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-chuangyegongju-active {
+        width: calc(48px * 0.55);
+        height: calc(45px * 0.55);
+        background-position: calc(-254px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-dianhua {
+        width: calc(43px * 0.55);
+        height: calc(43px * 0.55);
+        background-position: calc(-449px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-dianhua-active {
+        width: calc(43px * 0.55);
+        height: calc(43px * 0.55);
+        background-position: calc(-512px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-fanhuidingbu {
+        width: calc(33px * 0.55);
+        height: calc(50px * 0.55);
+        background-position: calc(-70px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-fire {
+        width: calc(50px * 0.55);
+        height: calc(69px * 0.55);
+        background-position: calc(-120px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-fuwuhao {
+        width: calc(43px * 0.55);
+        height: calc(44px * 0.55);
+        background-position: calc(-386px * 0.55) calc(-528px * 0.55);
+    }
+
+    &.icon-fuwuhao-active {
+        width: calc(43px * 0.55);
+        height: calc(44px * 0.55);
+        background-position: calc(-386px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-gouwuche {
+        width: calc(52px * 0.55);
+        height: calc(45px * 0.55);
+        background-position: calc(-677px * 0.55) calc(-390px * 0.55);
+    }
+
+    &.icon-gouwuche-active {
+        width: calc(52px * 0.55);
+        height: calc(45px * 0.55);
+        background-position: calc(-748px * 0.55) calc(-390px * 0.55);
+    }
+
+    &.icon-HOT {
+        width: calc(90px * 0.56);
+        height: calc(90px * 0.56);
+        background-position: calc(-10px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-hot-b {
+        width: calc(44px * 0.55);
+        height: calc(30px * 0.55);
+        background-position: calc(-696px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-HOT-title {
+        width: calc(220px * 0.55);
+        height: calc(50px * 0.55);
+        background-position: calc(-463px * 0.55) calc(-320px * 0.55);
+    }
+
+    &.icon-icon1 {
+        width: calc(148px * 0.55);
+        height: calc(142px * 0.55);
+        background-position: calc(-546px * 0.55) calc(-157px * 0.55);
+    }
+
+    &.icon-icon2 {
+        width: calc(148px * 0.55);
+        height: calc(130px * 0.55);
+        background-position: calc(-157px * 0.55) calc(-320px * 0.55);
+    }
+
+    &.icon-icon3 {
+        width: calc(148px * 0.55);
+        height: calc(133px * 0.55);
+        background-position: calc(-0px * 0.55) calc(-320px * 0.55);
+    }
+
+    &.icon-icon4 {
+        width: calc(148px * 0.55);
+        height: calc(129px * 0.55);
+        background-position: calc(-306px * 0.55) calc(-320px * 0.55);
+    }
+
+    &.icon-kefu {
+        width: calc(51px * 0.55);
+        height: calc(46px * 0.55);
+        background-position: calc(-535px * 0.55) calc(-390px * 0.55);
+    }
+
+    &.icon-kefu2 {
+        width: calc(40px * 0.55);
+        height: calc(51px * 0.55);
+        background-position: calc(-10px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-kefu-active {
+        width: calc(51px * 0.55);
+        height: calc(46px * 0.55);
+        background-position: calc(-606px * 0.55) calc(-390px * 0.55);
+    }
+
+    &.icon-logo {
+        width: calc(790px * 0.55);
+        height: calc(127px * 0.55);
+        background-position: calc(-10px * 0.55) calc(-10px * 0.55);
+    }
+
+    &.icon-more {
+        width: calc(18px * 0.55);
+        height: calc(17px * 0.55);
+        background-position: calc(-719px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-new {
+        width: calc(32px * 0.55);
+        height: calc(30px * 0.55);
+        background-position: calc(-760px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-phone {
+        width: calc(34px * 0.55);
+        height: calc(34px * 0.55);
+        background-position: calc(-453px * 0.55) calc(-583px * 0.55);
+    }
+
+    &.icon-right-arrow {
+        width: calc(12px * 0.55);
+        height: calc(19px * 0.55);
+        background-position: calc(-210px * 0.55) calc(-654px * 0.55);
+    }
+
+    &.icon-right-arrow-active {
+        width: calc(12px * 0.55);
+        height: calc(19px * 0.55);
+        background-position: calc(-242px * 0.55) calc(-654px * 0.55);
+    }
+
+    &.icon-right-arrow-black {
+        width: calc(20px * 0.55);
+        height: calc(19px * 0.55);
+        background-position: calc(-272px * 0.55) calc(-654px * 0.55);
+    }
+
+    &.icon-checked {
+        width: calc(34px * 0.55);
+        height: calc(34px * 0.55);
+        background-position: calc(-296px * 0.55) calc(-654px * 0.55);
+    }
+
+
+    &.icon-hot-fire {
+        width: calc(29px * 0.55);
+        height: calc(36px * 0.55);
+        background-position: calc(-350px * 0.55) calc(-654px * 0.55);
+    }
+
+
+    &.icon-shuiwu {
+        width: calc(43px * 0.55);
+        height: calc(43px * 0.55);
+        background-position: calc(-575px * 0.55) calc(-473px * 0.55);
+    }
+
+    &.icon-subpop-arrow {
+        width: calc(11px * 0.55);
+        height: calc(47px * 0.55);
+        background-position: calc(-773px * 0.55) calc(-320px * 0.55);
+    }
+
+    &.icon-title {
+        width: calc(58px * 0.55);
+        height: calc(43px * 0.55);
+        background-position: calc(-714px * 0.55) calc(-254px * 0.55);
+    }
+
+    &.icon-v {
+        width: calc(17px * 0.55);
+        height: calc(15px * 0.55);
+        background-position: calc(-120px * 0.55) calc(-548px * 0.55);
+    }
+
+    &.icon-why-1 {
+        width: calc(160px * 0.55);
+        height: calc(143px * 0.55);
+        background-position: calc(-10px * 0.55) calc(-157px * 0.55);
+    }
+
+    &.icon-why-2 {
+        width: calc(156px * 0.55);
+        height: calc(143px * 0.55);
+        background-position: calc(-370px * 0.55) calc(-157px * 0.55);
+    }
+
+    &.icon-why-3 {
+        width: calc(160px * 0.55);
+        height: calc(143px * 0.55);
+        background-position: calc(-190px * 0.55) calc(-157px * 0.55);
+    }
+
+    &.icon-x {
+        width: calc(91px * 0.55);
+        height: calc(91px * 0.55);
+        background-position: calc(-714px * 0.55) calc(-157px * 0.55);
+    }
+
+    &.icon-zhuce {
+        width: calc(50px * 0.55);
+        height: calc(48px * 0.55);
+        background-position: calc(-703px * 0.55) calc(-320px * 0.55);
+    }
+
+    &.icon-service-1 {
+        width: 67px;
+        height: 68px;
+        background-position: calc(-0px * 0.55) calc(-704px * 0.55);
+    }
+
+    &.icon-service-2 {
+        width: 67px;
+        height: 68px;
+        background-position: -67px calc(-704px * 0.55);
+    }
+
+    &.icon-service-3 {
+        width: 67px;
+        height: 68px;
+        background-position: -67px * 2 calc(-704px * 0.55);
+    }
+
+    &.icon-service-4 {
+        width: 67px;
+        height: 68px;
+        background-position: -67px * 3 calc(-704px * 0.55);
+    }
+}
